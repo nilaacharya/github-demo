@@ -1,1 +1,2 @@
+This is the demo file
 Test git checkin untracked file demo
